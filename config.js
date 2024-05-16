@@ -1,6 +1,6 @@
 // 应用全局配置
 module.exports = {
-  baseUrl: 'https://vue.ruoyi.vip/prod-api',
+  baseUrl: 'http://localhost/prod-api',
   // baseUrl: 'http://localhost:8080',
   // 应用信息
   appInfo: {
@@ -11,7 +11,7 @@ module.exports = {
     // 应用logo
     logo: "/static/logo.png",
     // 官方网站
-    site_url: "http://ruoyi.vip",
+    site_url: "http://xxxx.com",
     // 政策协议
     agreements: [{
         title: "隐私政策",
